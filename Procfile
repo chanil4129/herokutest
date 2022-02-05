@@ -1,1 +1,1 @@
-web: gunicorn DjangiLib.wsgi
+web: gunicorn DjangoLib.wsgi
