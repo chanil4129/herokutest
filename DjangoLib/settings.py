@@ -33,7 +33,7 @@ SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', 'django-insecure-fsk+&e5e9mux_%
 DEBUG = False
 
 #ALLOWED_HOSTS = ['*']
-ALLOWED_HOSTS = ['djangolibex.herokuapp.com','chanil4129.com','www.chanil4129.com','localhost','127.0.0.1']
+ALLOWED_HOSTS = ['djangolibex.herokuapp.com','127.0.0.1']
 
 
 # Application definition
