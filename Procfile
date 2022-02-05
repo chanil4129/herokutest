@@ -1,1 +1,1 @@
-web: gunicorn --chdir DjangiLib DjangiLib.wsgi
+web: gunicorn DjangiLib.wsgi
